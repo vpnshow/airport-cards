@@ -58,6 +58,7 @@
 | <img src="https://i.eoht.net/airport/xinghua_logo.webp" alt="" width="24" height="24"> [杏花云(XingHua)](https://eoht.net/serve/airport/xinghua) | ¥1/月 | 50GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/xinghua) |
 | <img src="https://i.eoht.net/airport/shandian_logo.webp" alt="" width="24" height="24"> [闪电鼠(ShanDian)](https://eoht.net/serve/airport/shandian) | ¥8/月 | 60GB | ❌ | ✅ | [前往详情](https://eoht.net/serve/airport/shandian) |
 | <img src="https://i.eoht.net/airport/huanqiu_logo.webp" alt="" width="24" height="24"> [环球梯(HuanQiu)](https://eoht.net/serve/airport/huanqiu) | ¥8/月 | 60GB | ❌ | ✅ | [前往详情](https://eoht.net/serve/airport/huanqiu) |
+| <img src="https://i.eoht.net/airport/lingdong_logo.webp" alt="" width="24" height="24"> [灵动云(LingDongYun)](https://eoht.net/serve/airport/lingdongyun) | ¥8.25/月 | 70GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/lingdongyun) |
 
 <a id="compare-airport-cards"></a>
 
