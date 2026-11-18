@@ -1,6 +1,6 @@
 <a id="airport-cards"></a>
 
-# 机场卡片汇总：价格、流量与订阅对比
+# 2026年翻墙VPN机场推荐卡片汇总：套餐价格、流量与不限时套餐对比
 
 通过下表浏览本站收录的机场，对比价格、流量与订阅支持，点击机场名称或“前往详情”查看套餐、线路和测速资料。
 
@@ -43,7 +43,7 @@
 | <img src="https://i.eoht.net/airport/spiritcat_logo.webp" alt="" width="24" height="24"> [灵猫网络(SpiritCat)](https://eoht.net/serve/airport/spiritcat) | 约¥7.08/月 | 45GB | ❌ | ✅ | [前往详情](https://eoht.net/serve/airport/spiritcat) |
 | <img src="https://i.eoht.net/airport/yuntu_logo.webp" alt="" width="24" height="24"> [云图机场(YunTu)](https://eoht.net/serve/airport/yuntu) | ¥20/月 | 150GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/yuntu) |
 | <img src="https://i.eoht.net/airport/liulianyun_logo.webp" alt="" width="24" height="24"> [榴莲云(LiuLianYun)](https://eoht.net/serve/airport/liulianyun) | ¥8/月 | 60GB | ❌ | ✅ | [前往详情](https://eoht.net/serve/airport/liulianyun) |
-| <img src="https://i.eoht.net/airport/xinghua_logo.webp" alt="" width="24" height="24"> [杏花云(XingHua)](https://eoht.net/serve/airport/xinghua) | ¥1/月 | 50GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/xinghua) |
+| <img src="https://i.eoht.net/airport/xinghua_logo.webp" alt="" width="24" height="24"> [杏花云(XingHua)](https://eoht.net/serve/airport/xinghua) | ¥1/月 | 50GB | ❌ | ✅ | [前往详情](https://eoht.net/serve/airport/xinghua) |
 | <img src="https://i.eoht.net/airport/huanqiu_logo.webp" alt="" width="24" height="24"> [环球梯(HuanQiu)](https://eoht.net/serve/airport/huanqiu) | ¥8/月 | 60GB | ❌ | ✅ | [前往详情](https://eoht.net/serve/airport/huanqiu) |
 | <img src="https://i.eoht.net/airport/lingdong_logo.webp" alt="" width="24" height="24"> [灵动云(LingDongYun)](https://eoht.net/serve/airport/lingdongyun) | ¥8.25/月 | 70GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/lingdongyun) |
 | <img src="https://i.eoht.net/airport/yinyun_logo.webp" alt="" width="24" height="24"> [隐云(YinYun)](https://eoht.net/serve/airport/yinyun) | 约¥22.83/月 | 150GB | ❌ | ✅ | [前往详情](https://eoht.net/serve/airport/yinyun) |
@@ -56,8 +56,8 @@
 | <img src="https://i.eoht.net/airport/jinyun_logo.webp" alt="" width="24" height="24"> [锦云(JinYun)](https://eoht.net/serve/airport/jinyun) | ¥6/月 | 64GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/jinyun) |
 | <img src="https://i.eoht.net/airport/miaomiao_logo.webp" alt="" width="24" height="24"> [秒秒云(MiaoMiao)](https://eoht.net/serve/airport/miaomiao) | 约¥6.58/月 | 64GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/miaomiao) |
 | <img src="https://i.eoht.net/airport/ssy_logo.webp" alt="" width="24" height="24"> [山水云(SSY)](https://eoht.net/serve/airport/ssy) | 约¥7.33/月 | 64GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/ssy) |
-| <img src="https://i.eoht.net/airport/xiongmao_logo.webp" alt="" width="24" height="24"> [熊猫云(XiongMao)](https://eoht.net/serve/airport/xiongmao) | ¥6/月 | 300GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/xiongmao) |
-| <img src="https://i.eoht.net/airport/jisu_logo.webp" alt="" width="24" height="24"> [极速云(JiSu)](https://eoht.net/serve/airport/jisu) | 约¥26.67/月 | 500GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/jisu) |
+| <img src="https://i.eoht.net/airport/xiongmao_logo.webp" alt="" width="24" height="24"> [熊猫云(XiongMao)](https://eoht.net/serve/airport/xiongmao) | ¥6/月 | 300GB | ❌ | ✅ | [前往详情](https://eoht.net/serve/airport/xiongmao) |
+| <img src="https://i.eoht.net/airport/jisu_logo.webp" alt="" width="24" height="24"> [极速云(JiSu)](https://eoht.net/serve/airport/jisu) | 约¥26.67/月 | 500 ÷ 10 ≈ 50GB/月 | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/jisu) |
 | <img src="https://i.eoht.net/airport/andy_logo.webp" alt="" width="24" height="24"> [安迪云(AnDy)](https://eoht.net/serve/airport/andy) | ¥2.50/月 | 50GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/andy) |
 
 <a id="compare-airport-cards"></a>
